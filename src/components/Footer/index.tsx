@@ -20,7 +20,7 @@ export default function Footer() {
       </div> */}
       <div className="footer-section">
         <a
-          href="https://github.com/pranjalshikhar/aizen/issues"
+          href="https://github.com/devalpha18/aizen-codesnap/issues"
           target="_blank"
           rel="noreferrer"
         >

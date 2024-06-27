@@ -4,7 +4,7 @@ export default function GitHub() {
   return (
     <a
       className="github"
-      href="https://github.com/pranjalshikhar/aizen"
+      href="https://github.com/devalpha18/aizen-codesnap"
       target="_blank"
       rel="noreferrer"
     >
